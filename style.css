@@ -4,8 +4,8 @@
     font-family: 'Mukta', sans-serif !important;
 }
 
-body{
-    background: linear-gradient(103.67deg, #1f7a8c 10.56%, #022b3a 80.85%);
+.sec1{
+    background:linear-gradient(103.67deg, #1f7a8c 10.56%, #022b3a 80.85%);
 }
 
 #list ul{
@@ -30,14 +30,13 @@ body{
 #logo h1{
     padding: 0.8rem 0;
     font-size: 3rem;
-    font-weight: 600;
+    font-weight: 700;
     color: #fff;
-    font-family: 'Montserrat', sans-serif !important;
 }
 
 #hi h1{
     font-family: 'Montserrat', sans-serif !important;
-    font-size: 4.5rem;
+    font-size: 4rem;
     font-weight: 600;
     padding-bottom: 4rem;
     padding-left: 4rem;
@@ -58,7 +57,7 @@ body{
 }
 
 #text p{
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     font-family: 'Montserrat', sans-serif !important;
     font-weight: 500;
     color: #fff;
@@ -77,4 +76,39 @@ body{
 
 #text button :active, #text button:focus{
     box-shadow: none;
+}
+
+#sec2{
+   padding: 3rem 0;
+}
+
+#hobbies h3{
+    font-size: 3.5rem;
+    background: -webkit-linear-gradient(#1f7a8c, #022b3a 75%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#interests ul{
+    color: #022b3a;
+    list-style: circle;
+    list-style-position: inside;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 1.25rem;
+}
+
+#interests ul li{
+    padding: 0.025rem;
+}
+
+#interests button{
+    border-radius: 0;
+    margin: 1rem 0;
+    width: 40%;
+    font-size: 2rem;
+    font-weight: 600;
+    background-color: #022b3a;
+    border: none;
+    color: #fff;
 }
