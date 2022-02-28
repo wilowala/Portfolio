@@ -80,7 +80,7 @@
 
 #sec2{
    padding: 3rem;
-   background-color: #E1E5F2;
+   background-color: #fff;
 }
 
 #sec2 hr{
@@ -124,7 +124,7 @@
 
 #sec3{
     padding: 3rem;
-    background-color: #E1E5F2;
+    background-color: #fff;
 }
 
 #project h3{
@@ -191,7 +191,7 @@
 
 #touch h2{
     font-size: 5rem;
-    font-weight: 600;
+    font-weight: 500;
     color: #fff;
     margin-top: 1.8rem;
 }
