@@ -183,3 +183,69 @@
 #quiz a{
     margin-top: 25%;
 }
+
+#sec4{
+    padding: 3rem;
+    background: linear-gradient(0deg, rgba(31, 122, 140, 0.85), rgba(31, 122, 140, 0.85)), url(./Images/pexels-josh-sorenson-1714208.jpg) no-repeat center center / cover;
+}
+
+#touch h2{
+    font-size: 5rem;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 1.8rem;
+}
+
+#touch h2 span{
+    color: #022b3a;
+}
+
+#form{
+    width: 60%;
+}
+
+#form label{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #fff;
+    padding: 0.3rem 0.3rem 0 0.3rem;
+}
+
+#form input{
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 0.156rem solid #E1E5F2;
+    border-radius: 0;
+    height: 1.5rem;
+    padding: 0.25rem;
+}
+
+#form button{
+    border-radius: 0;
+    margin: 1rem 0;
+    width: 30%;
+    font-size: 1.3rem;
+    font-weight: 600;
+    background-color: #022b3a;
+    border: none;
+    color: #fff;
+}
+
+#footer ul{
+    margin-bottom: -2rem;
+    text-align: center;
+}
+
+#footer ul li{
+    display: inline;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 0.3rem;
+    color: #E1E5F2;
+}
+
+#tweet{
+    color: #022b3a !important;
+}
