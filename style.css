@@ -79,7 +79,8 @@
 }
 
 #sec2{
-   padding: 3rem ;
+   padding: 3rem;
+   background-color: #E1E5F2;
 }
 
 #sec2 hr{
@@ -121,10 +122,25 @@
     color: #fff;
 }
 
+#sec3{
+    padding: 3rem;
+    background-color: #E1E5F2;
+}
+
+#project h3{
+    color: #1f7a8c;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+
+#project span{
+    color: #022b3a;
+}
+
 #card{
     margin-top: 10rem;
     margin-left: 6.5%;
-    width: 90%;
+    width: 94%;
     height: 50%;
     background-color: #1f7a8c;
     display: flex;
