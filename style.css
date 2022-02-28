@@ -1,13 +1,10 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Mukta', sans-serif !important;
 }
 
-#nav{
-    display: flex;
-}
-
-#nav ul{
-    display: inline !important;
-    text-decoration: none;
+#nbar{
+    display: flex !important;
+    justify-content: space-between !important;
 }
