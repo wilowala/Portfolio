@@ -13,6 +13,8 @@ Moringa School weekly project that is meant to assess and enhance skills and and
 ### Link
 [GitHub Pages live link](https://wilowala.github.io/Portfolio/index.html)
 
-### Copyright and License
-MIT License - See license information on the **About Section**
+### Copyright and 
 Copyright (c) [2022] [William Owalla]
+
+### License
+MIT License - See license information on the **About Section**
