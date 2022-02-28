@@ -2,7 +2,7 @@
 
 #### William Owalla
 
-## Project Descriptio
+## Project Description
 Moringa School weekly project that is meant to assess and enhance skills and and concepts learned over the first week of the prep module
 
 ## Set-up Instruction
