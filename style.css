@@ -187,7 +187,7 @@
 #card :hover{
     background:rgba(255, 255, 255, 0.25);
     box-shadow: 0 0.25rem 2rem rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(0.256rem);
+    backdrop-filter: blur(0.156rem);
     color: #022b3a !important;
     transition: background 0.7s;
 }
