@@ -80,7 +80,7 @@
 
 #sec2{
    padding: 3rem;
-   background-color: #fff;
+   background-color: #BFDBF7;
 }
 
 #sec2 hr{
@@ -124,7 +124,7 @@
 
 #sec3{
     padding: 3rem;
-    background-color: #fff;
+    background-color: #BFDBF7;
 }
 
 #project h3{
@@ -182,6 +182,14 @@
 
 #quiz a{
     margin-top: 25%;
+}
+
+#card :hover{
+    background:rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0.25rem 2rem rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(0.256rem);
+    color: #022b3a !important;
+    transition: background 0.7s;
 }
 
 #sec4{
