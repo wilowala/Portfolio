@@ -11,7 +11,7 @@ Moringa School weekly project that is meant to assess and enhance skills and and
 *  Dive in!
 
 ### Link
-[GitHub Pages live link](https://wilowala.github.io/Portfolio/index.html)
+[GitHub Pages live link](https://wilowala.github.io/Portfolio/)
 
 ### License
 Copyright (c) 2022 [Click to view License](LICENSE)
